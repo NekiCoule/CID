@@ -1,0 +1,16 @@
+﻿  main.cpp
+c:\users\meder\documents\liscence\c++ tp\cid\cid\main.cpp(57): error C2248: 'cid::cid' : impossible d'accéder à private membre déclaré(e) dans la classe 'cid'
+  c:\users\meder\documents\liscence\c++ tp\cid\cid\cid.h(16): note: voir la déclaration de 'cid::cid'
+  c:\users\meder\documents\liscence\c++ tp\cid\cid\cid.h(7): note: voir la déclaration de 'cid'
+c:\users\meder\documents\liscence\c++ tp\cid\cid\main.cpp(73): error C2228: la partie gauche de '.modifierCarte' doit avoir un class/struct/union
+  c:\users\meder\documents\liscence\c++ tp\cid\cid\main.cpp(73): note: le type est 'cid *'
+  c:\users\meder\documents\liscence\c++ tp\cid\cid\main.cpp(73): note: voulez-vous utiliser '->' à la place ?
+c:\users\meder\documents\liscence\c++ tp\cid\cid\main.cpp(89): error C2228: la partie gauche de '.afficherCarte' doit avoir un class/struct/union
+  c:\users\meder\documents\liscence\c++ tp\cid\cid\main.cpp(89): note: le type est 'cid *'
+  c:\users\meder\documents\liscence\c++ tp\cid\cid\main.cpp(89): note: voulez-vous utiliser '->' à la place ?
+c:\users\meder\documents\liscence\c++ tp\cid\cid\main.cpp(104): error C2228: la partie gauche de '.supprimerCarte' doit avoir un class/struct/union
+  c:\users\meder\documents\liscence\c++ tp\cid\cid\main.cpp(104): note: le type est 'cid *'
+  c:\users\meder\documents\liscence\c++ tp\cid\cid\main.cpp(104): note: voulez-vous utiliser '->' à la place ?
+  CID.cpp
+c:\users\meder\documents\liscence\c++ tp\cid\cid\cid.cpp(118): fatal error C1010: fin de fichier inattendue lors de la recherche d'un en-tête précompilé. N'auriez-vous pas oublié d'ajouter '#include "stdafx.h"' à votre source ?
+  Génération de code en cours...
